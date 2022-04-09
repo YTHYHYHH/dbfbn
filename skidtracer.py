@@ -31,18 +31,6 @@ class IP_API():
         return str(vl)
 # Constant GLOBAL VARS
 print('ss')
-
-
- {}by{} KE{}ND{}RA.{}
-""".format(
-    '\033[38;5;205m',
-    '\033[38;5;206m',
-    '\033[38;5;207m',
-    '\033[38;5;219m',
-    '\033[38;5;207m',
-    '\033[38;5;219m',
-    '\033[38;5;207m',
-    '\033[0m'
 )
 def Run():
     print(LOGO)
