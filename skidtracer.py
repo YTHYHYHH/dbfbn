@@ -31,7 +31,6 @@ class IP_API():
         return str(vl)
 # Constant GLOBAL VARS
 print('ss')
-)
 def Run():
     print(LOGO)
     obj = IP_API()
