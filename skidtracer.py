@@ -32,7 +32,6 @@ class IP_API():
 # Constant GLOBAL VARS
 print('ss')
 def Run():
-    print(LOGO)
     obj = IP_API()
 
     if obj.READJSON('status') == 'success':
